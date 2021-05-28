@@ -1,4 +1,4 @@
-# original-ogx360-USB-Extender
+# Original ogx360 USB Extender
 
 This project relates to the original Xbox wireless controller (ogx360) designed by RYZEE119 (https://github.com/Ryzee119/ogx360)
 

@@ -6,8 +6,8 @@
 * The Micro USB cable is soldered to the PCB like this:
 - red wire to VBUS
 - black wire to GND
-- green wire to D+
-- white wire to D-
+- green wire to D-
+- white wire to D+
 * Note that there are markings on the PCB to indicate the Controller Port:  P1/P3, P2/P4.  Plug the Micro USB cable into the appropriate Micro USB port on the ogx360.
 * An STL will be made at a later date (to serve as a case for this PCB).
 

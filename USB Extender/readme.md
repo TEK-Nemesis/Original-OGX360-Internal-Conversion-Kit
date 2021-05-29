@@ -2,9 +2,17 @@
 
 ## Overview
 
-The USB Extender simply extends the USB port on the ogx360, bringing a USB port to the front of the Xbox.  The reset button is optional but it may prove useful in its operation (perhaps when switching from wired to wireless controllers).  A 5-pin 1.00mm pitch JST cable is used to connect the two parts (although you may also wire directly to the solder pads.)
+The USB Extender simply extends the USB port on the ogx360, bringing a USB port to the front of the Xbox.  
 
 <img src="./Images/USB_Extender_small.jpg" width="60%"/> 
+
+## Usage
+
+The tactile button (used to reset the ogx3600 is optional but it may prove useful (perhaps when switching from wired to wireless controllers).  If used, a wire must be soldered on the reset pad (on the PCB that plugs directly into the ogx360).  The other end of the wire gets soldered to one of two inside pads of the tactile switch (that is soldered onto the ogx360).  
+
+Note:  If everything is connected and the ogx360 doesn't reset then solder the reset wire to a different pad on the ogx360's tactile switch.  
+
+A 5-pin 1.00mm pitch JST cable is used to connect the two parts (although you may also wire directly to the solder pads.)
 
 ## Gerber files
 

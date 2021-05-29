@@ -9,5 +9,5 @@ If you like my work please consider buying me a coffee:
 ## General:
 * This project is a culmination of work that will aid with the installation of the original ogx360 inside an original Xbox.  
 
-Individual components of this project are organized into their own folder.
+* Individual components of this project are organized into their own folder.
 

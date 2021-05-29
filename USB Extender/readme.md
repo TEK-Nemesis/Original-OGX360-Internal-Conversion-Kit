@@ -8,7 +8,7 @@ The USB Extender simply extends the USB port on the ogx360, bringing a USB port 
 
 ## Usage
 
-The tactile button (used to reset the ogx3600 is optional but it may prove useful (perhaps when switching from wired to wireless controllers).  If used, a wire must be soldered on the reset pad (on the PCB that plugs directly into the ogx360).  The other end of the wire gets soldered to one of two inside pads of the tactile switch (that is soldered onto the ogx360).  Refer to the picture below.
+The tactile button (used to reset the ogx360) is optional but it may prove useful (perhaps when switching from wired to wireless controllers).  If used, a wire must be soldered on the reset pad (on the PCB that plugs directly into the ogx360).  The other end of the wire gets soldered to one of two inside pads of the tactile switch (that is soldered onto the ogx360).  Refer to the picture below.
 
 Note:  If everything is connected and the ogx360 doesn't reset then solder the reset wire to a different pad on the ogx360's tactile switch.  
 

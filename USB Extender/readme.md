@@ -26,6 +26,6 @@ Note:  If everything is connected and the ogx360 doesn't reset then solder the r
 
 <b>OGX360 Front USB PCB_Gerber Files (Type A).zip</b> - this PCB gets mounted outside the case, centred under the power/eject buttons.  Use double-sided tape to secure it.  5-pin connector points to <b>side</b>.   
 
-<b>OGX360 Front USB PCB_Gerber Files (Type B).zip</b> - this PCB gets mounted outside the case, centred under the power/eject buttons.  Use double-sided tape to secure it.  5-pin connector points to <b>rear</b>.   
+<b>OGX360 Front USB PCB_Gerber Files (Type B).zip</b> - this PCB gets mounted outside the case, centred under the power/eject buttons.  Use double-sided tape to secure it.  5-pin connector points to <b>rear</b>.    
 
 

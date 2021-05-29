@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="./Images/12-pin_Extension.jpg" width="30%"/> 
+<img src="./Images/PCB.jpg" width="30%"/> 
 
 
 ## BOM

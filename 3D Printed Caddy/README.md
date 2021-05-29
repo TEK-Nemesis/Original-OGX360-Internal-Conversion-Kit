@@ -6,4 +6,4 @@ The caddy was designed by TEK Nemesis and it is used to hold the ogx360 in place
 
 Note:  The Philips DVD Drive has a big bulge on the bottom that interferes with this caddy.  The Philips drive can be swapped with any other DVD drive that comes with the Xbox.
 
-<img src="./Images/caddy.jpg" width="50%"/> 
+<img src="./Images/caddy.jpg" width="80%"/> 

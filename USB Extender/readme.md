@@ -2,7 +2,7 @@
 
 ## Overview
 
-The USB Extender simply extends the USB port on the ogx360, bringing a USB port to the front of the Xbox.  The reset button is optional but it may prove useful in its operation (perhaps when switching from wired to wireless controllers).
+The USB Extender simply extends the USB port on the ogx360, bringing a USB port to the front of the Xbox.  The reset button is optional but it may prove useful in its operation (perhaps when switching from wired to wireless controllers).  A 5-pin 1.00mm pitch JST cable is used to connect the two parts (although you may also wire directly to the solder pads.)
 
 <img src="./Images/USB_Extender_small.jpg" width="60%"/> 
 

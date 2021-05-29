@@ -13,6 +13,8 @@ The PCB was designed by RYZEE119 and the STL was designed by TEK Nemesis.  The P
 
 <img src="./Images/USB_Breakout_Board.jpg" width="80%"/> 
 
-Once installed, it will look like the image below.  The 3D printed part may be used or the USB Breakout Board may be affixed to the interior of the Xbox with double-sided tape.
+Once installed, it will look like the image below.  (Note that there are markings on the PCB to indicate the Controller Port:  P1/P3, P2/P4.  Plug the Micro USB cable into the appropriate Micro USB port on the ogx360.)
+
+The 3D printed part may be used or the USB Breakout Board may be affixed to the interior of the Xbox with double-sided tape.
 
 <img src="./Images/USB_Breakout_Board_Installed.jpg" width="80%"/> 

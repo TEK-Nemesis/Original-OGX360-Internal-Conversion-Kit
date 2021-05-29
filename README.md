@@ -1,4 +1,4 @@
-# Original ogx360 Internal Installation Kit
+# Original ogx360 Installation Kit
 
 This project relates to the original Xbox wireless controller (ogx360) designed by RYZEE119 (https://github.com/Ryzee119/ogx360)
 

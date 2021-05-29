@@ -8,7 +8,7 @@ The USB Extender simply extends the USB port on the ogx360, bringing a USB port 
 
 ## Usage
 
-1.     The installation of a tactile switch on the Front USB PCB is optional but it may prove useful (perhaps when switching from wired to wireless controllers).  If used, here is what must be done:
+1. The installation of a tactile switch on the Front USB PCB is optional but it may prove useful (perhaps when switching from wired to wireless controllers).  If used, here is what must be done:
 
    * If you **are** using a JST cable to connect the two USB Extender PCBs then you simply need to solder one end of a wire (e.g. 28 AWG multi-stranded) to the **reset** solder pad on the USB Plug PCB (that plugs directly into the ogx360).  The other end of the wire gets soldered to one of two inside pads of the tactile switch (that is soldered onto the ogx360).  Refer to the picture below.
 

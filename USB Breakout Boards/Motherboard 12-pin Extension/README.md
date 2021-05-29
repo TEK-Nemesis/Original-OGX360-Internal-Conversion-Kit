@@ -2,7 +2,7 @@
 
 ## Overview
 
-<img src="./Images/12-pin_Extension.jpg" width="50%"/> 
+<img src="./Images/12-pin_Extension.jpg" width="30%"/> 
 
 
 ## BOM

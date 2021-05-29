@@ -1,6 +1,6 @@
-#3D Printed Caddy
+# 3D Printed Caddy
 
-##Overview
+## Overview
 
 The caddy was designed by TEK Nemesis and it is used to hold the ogx360 in place (inside the Xbox).  The caddy isn't necessary but it has a unique look and it properly secures the ogx360 from moving around.
 

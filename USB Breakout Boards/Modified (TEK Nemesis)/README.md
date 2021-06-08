@@ -17,5 +17,5 @@
 |-----|-------------------------|---------------------------|------------------------------------|---------------------|
 | 2   | S12B-PHDSS(LF)(SN)      | JST Sales America Inc.    | CONN HEADER R/A 12POS 2MM          | 	455-1776-ND        |
 
-<img src="./Images/USB Breakout Board with wires.jpg" width="40%"/> 
+<img src="./Images/USB Breakout Board with wires.jpg" width="80%"/> 
 

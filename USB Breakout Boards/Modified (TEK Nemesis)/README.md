@@ -3,7 +3,7 @@
 ## Overview
 
 * This PCB was designed by TEK Nemesis. It uses Micro USB cables (cut open at one end) and 12-pin JST 2.00mm cables.  Zip ties / cable ties could be fed through the holes in the PCB to hold the wires in place.
-* The Micro USB cable is soldered to the PCB like this:
+* The Micro USB cable is soldered to the PCB like this (though it is possible to have alternate wire colours):
   - red wire to VBUS
   - black wire to GND
   - green wire to D-

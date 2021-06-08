@@ -12,4 +12,4 @@ If you like my work please consider buying me a coffee:
 * If you don't already own an ogx360 then it is *not* recommended to use this kit.  If you are starting fresh then the better option is to use the newer internal OGX360i as it was made specifically to be installed inside an original Xbox.  (The TEK Nemesis OGX360i is very small in comparison to the original OGX360 and it is available on my GitHub).
 
 <img src="./Images/Complete 2-Channel Kit.jpg" width="80%"/> 
-<img src="./Images/2-Channel Installed.jpg.jpg" width="80%"/>
+<img src="./Images/2-Channel Installed.jpg" width="80%"/>

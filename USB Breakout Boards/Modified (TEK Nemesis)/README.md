@@ -11,6 +11,8 @@
 * Note that there are markings on the PCB to indicate the Controller Port:  P1/P3, P2/P4.  Plug the Micro USB cable into the appropriate Micro USB port on the ogx360.
 * An STL will be made at a later date (to serve as a case for this PCB).
 
+<img src="./Images/USB Breakout Board.jpg" width="80%"/> 
+
 ## BOM
 
 | Qty | Part Number             | Manufacturer              | Description                        | DigiKey Part        |

@@ -11,7 +11,7 @@
   - white wire to D-
 * Note that there are markings on the PCB to indicate the Controller Port:  P1/P3, P2/P4.  Plug the Micro USB cable into the appropriate Micro USB port on the ogx360.  I find it handy to add a little heatshrink band to the Micro USB cable that is for P1/P3.
 
-<img src="./Images/PCB.jpg" width="40%"/> 
+<img src="./Images/PCB.jpg" width="25%"/> 
 
 <img src="./Images/USB Breakout Board.jpg" width="50%"/> 
 

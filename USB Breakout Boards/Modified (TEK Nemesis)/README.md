@@ -19,7 +19,7 @@
 |-----|-------------------------|---------------------------|------------------------------------|---------------------|
 | 2   | S12B-PHDSS(LF)(SN)      | JST Sales America Inc.    | CONN HEADER R/A 12POS 2MM          | 	455-1776-ND        |
 
-There is lots of stock of the 12-pin connection header on AliExpress.
+There is lots of stock of the 12-pin connection header on AliExpress:
 https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210608224931&SearchText=S12B-PHDSS
 
 <img src="./Images/USB Breakout Board with wires.jpg" width="80%"/> 

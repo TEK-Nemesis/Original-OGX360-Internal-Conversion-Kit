@@ -21,12 +21,15 @@
 |-----|-------------------------|---------------------------|------------------------------------|---------------------|
 | 2   | S12B-PHDSS(LF)(SN)      | JST Sales America Inc.    | CONN HEADER R/A 12POS 2MM          | 	455-1776-ND        |
 | 1   | CABLE                   | JST Sales America Inc.    | PHD 2.0MM 26AWG CABLE, REVERSED    | 	N/A                |
+| 1   | CABLE                   | N/A                       | Micro USB cable                    | 	N/A                |
 
 There is lots of stock of the 12-pin connection header on AliExpress:
 https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210608224931&SearchText=S12B-PHDSS
 
 AliExpress also has lots of the short PHD 2.0mm 26AWG cables (reversed, cable length should be around 10cm):
 https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210608225500&SearchText=PHD+2.0mm+26awg
+
+Any Micro USB cable will do as you'll be cutting off one end.  Nine to ten inches is a good length for this cable.
 
 <img src="./Images/USB Breakout Board with wires.jpg" width="80%"/> 
 

@@ -25,7 +25,7 @@
 There is lots of stock of the 12-pin connection header on AliExpress:
 https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210608224931&SearchText=S12B-PHDSS
 
-AliExpress also has lots of the short PHD 2.0mm 26AWG cables (reversed):
+AliExpress also has lots of the short PHD 2.0mm 26AWG cables (reversed, cable length should be around 10cm):
 https://www.aliexpress.com/wholesale?catId=0&initiative_id=SB_20210608225500&SearchText=PHD+2.0mm+26awg
 
 <img src="./Images/USB Breakout Board with wires.jpg" width="80%"/> 

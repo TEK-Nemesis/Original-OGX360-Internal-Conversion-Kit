@@ -20,3 +20,4 @@
 
 <img src="./Images/USB Breakout Board with wires.jpg" width="80%"/> 
 
+<img src="./Images/USB Breakout Board in Case with wires.jpg" width="80%"/> 

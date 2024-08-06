@@ -1,10 +1,11 @@
 # Original OGX360 Internal Conversion Kit
 
-This project relates to the original Xbox wireless controller (ogx360) designed by RYZEE119 (https://github.com/Ryzee119/ogx360)
+This project allows the ogx360 to be nicely installed inside an original Xbox.
 
-If you like my work please consider buying me a coffee:
+(Note:  The ogx360 is a small circuit board which allows you to use a range of modern USB controllers on the Original Xbox Console.  It was designed by Ryzee119 (Ryan Wendland) and without him, I could not have made this product for the community.  https://github.com/Ryzee119/ogx360
 
-[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/donate?hosted_button_id=CLXCUTHK6YQQQ)<br>
+Please consider donating to Ryan Wendland here:
+[![paypal](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.com/cgi-bin/webscr?cmd=_donations&business=49HV7N8QH9KQ8&currency_code=AUD&source=url)<br>
 
 ## General:
 * This project is a culmination of work that will aid with the installation of the original ogx360 (37mm x 97mm / 1.44 inches x 3.82 inches) inside an original Xbox.  

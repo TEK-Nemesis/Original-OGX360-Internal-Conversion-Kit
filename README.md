@@ -1,6 +1,6 @@
 # Original OGX360 Internal Conversion Kit
 
-This project allows the ogx360 to be nicely installed inside an original Xbox.
+This project allows an existing ogx360 to be nicely installed inside an original Xbox.
 
 Note:  The ogx360 is a small circuit board which allows you to use a range of modern USB controllers on the Original Xbox Console.  It was designed by Ryzee119 (Ryan Wendland) and without him, I could not have made this product for the community.  https://github.com/Ryzee119/ogx360
 
